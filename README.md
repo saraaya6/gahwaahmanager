@@ -1,4 +1,4 @@
-# Smart Ahwa Manager ☕
+# Smart Gahwa Manager ☕
 
 A Flutter application designed for coffee shop owners in Cairo to efficiently manage customer orders, track popular items, and generate sales reports. This project is built with a strong focus on clean architecture using SOLID principles and Object-Oriented Programming concepts.
 
